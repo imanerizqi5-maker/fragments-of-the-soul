@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fragments of the Soul</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<nav>
+    <h2>Fragments of the Soul</h2>
+
+    <ul>
+        <li>index.htmlHome</a></li>
+        <li><a href="pages/philosophy.html">Philosophy       <li><ages/encounters.htmlEncounters</a></li>
+        <li><a href="pages/submit-story.html">Share Your Story</a</ul>
+</nav>
+
+<header>
+    <h1>We travel thinking we are searching for places.</h1>
+
+    <h2>In reality, we are searching for connections.</h2>
+
+    <p>
+        Mountains, cities, deserts, and oceans become the backdrop
+        of something far more meaningful:
+        the moments when two souls meet and recognize one another.
+    </p>
+</header>
+
+<section>
+    <h2>What is Fragments of the Soul?</h2>
+
+    <p>
+        Fragments of the Soul is a collection of encounters.
+    </p>
+
+    <p>
+        A celebration of the awe of human connection that transcends
+        borders, cultures, language, space, and time.
+    </p>
+</section>
+
+</body>
+</html>
