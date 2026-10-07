@@ -1,30 +1,44 @@
 body {
     margin: 0;
-    background-color: #0F172A;
-    color: #F8F5F0;
+    background-color: #FAF6F0;
+    color: #5C5248;
     font-family: Georgia, serif;
-    line-height: 1.8;
+    line-height: 1.9;
 }
 
 header {
     text-align: center;
-    padding: 120px 40px;
+    padding: 140px 40px;
+    background: #F3EADF;
 }
 
 h1 {
     font-size: 4rem;
+    color: #B86F52;
+    margin-bottom: 40px;
 }
 
 h2 {
-    color: #D6B98C;
+    color: #486A73;
+    font-weight: 300;
+    margin-bottom: 20px;
 }
 
 section {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 40px;
+    max-width: 850px;
+    margin: 60px auto;
+    padding: 0 30px;
 }
 
-ul {
-    padding-left: 20px;
+p {
+    font-size: 1.15rem;
+}
+
+a {
+    color: #486A73;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B86F52;
 }
